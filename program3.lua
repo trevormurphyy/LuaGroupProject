@@ -5,9 +5,9 @@ Frank Watring
 Trevor Murphy
 Mitchell Misischia
 
-a program that reads a file of values from lol.txt and reports Mean, Median, Mode and Range
+a program that reads a file of values from program3.txt and reports Mean, Median, Mode and Range
 
-Correct Terminal Call: "lua54 program3.lua lol.txt"
+Correct Terminal Call: "lua54 program3.lua program3.txt"
 
 Parameters
 arg[0] = program3.lua
